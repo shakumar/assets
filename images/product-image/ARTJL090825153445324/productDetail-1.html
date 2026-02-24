@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Best Collections</title>
+  <style>
+    .productdetail-body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #f6f6f6;
+      color: #333;
+    }
+
+    .productdetail-container {
+      max-width: 1200px;
+      margin: auto;
+      padding: 20px;
+    }
+
+    .productdetail-h1 {
+      text-align: center;
+      font-size: 2.5em;
+      margin-bottom: 10px;
+    }
+
+    .productdetail-intro {
+      text-align: center;
+      max-width: 700px;
+      margin: auto;
+      font-size: 1em;
+      color: #666;
+    }
+
+    .productdetail-collection {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      align-items: center;
+      background: #fff;
+      margin: 40px 0;
+	  margin-bottom: 10px;
+      padding: 10px 10px;
+      border-radius: 10px;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.05);
+      transition: transform 0.3s;
+    }
+
+    .productdetail-collection:hover {
+      transform: scale(1.01);
+    }
+
+    .productdetail-collection img {
+      max-width: 100%;
+      height: auto;
+      border-radius: 10px;
+      transition: transform 0.3s;
+    }
+
+    .productdetail-collection:hover img {
+      transform: scale(1.05);
+    }
+
+    .productdetail-content {
+      flex: 1 1 45%;
+      padding: 20px;
+    }
+
+    .productdetail-image {
+      flex: 1 1 45%;
+      text-align: center;
+    }
+
+    .productdetail-content h2 {
+      font-size: 1.3em;
+      margin-bottom: 10px;
+    }
+
+    .productdetail-content p {
+      font-size: 1em;
+      line-height: 1.6;
+      color: #555;
+    }
+
+    .productdetail-buttons {
+      margin-top: 15px;
+    }
+
+    .productdetail-buttons button {
+      padding: 10px 20px;
+      margin-right: 10px;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      transition: background 0.3s, color 0.3s;
+    }
+
+    .productdetail-buttons button:first-child {
+      background: #eee;
+    }
+
+    .productdetail-buttons button:first-child:hover {
+      background: #ddd;
+    }
+
+    .productdetail-buttons button:last-child {
+      background: #6c63ff;
+      color: #fff;
+    }
+
+    .productdetail-buttons button:last-child:hover {
+      background: #584de0;
+    }
+
+    @media (max-width: 768px) {
+      .productdetail-collection {
+        flex-direction: column;
+        text-align: center;
+      }
+
+      .productdetail-content, .productdetail-image {
+        flex: 1 1 100%;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="productdetail-container">
+    <!--<h1>Best Collections</h1>
+    <p class="productdetail-intro">i love cricket</p>-->
+
+    <div class="productdetail-collection">
+      <div class="productdetail-image">
+        <img src="/images/product-image/ARTJL090825153445324/1.webp" alt="Raspberry & Lemon">
+      </div>
+      <div class="productdetail-content">
+        <h2>Rhinestone Bridal Wedding Jewelry Set, Sparkly Crystal Necklace</h2>
+        <p>Earrings Set Prom Costume for Women's All Festive</p>
+      </div>
+    </div>
+
+    <div class="productdetail-collection">
+      <div class="productdetail-content">
+        <h2>Beautify You On Special Days</h2>
+        <p>This set is preffered for special occasions like weddings, formal events, or luxury gifts.</p>
+        <!--<div class="productdetail-buttons">
+          <button>Learn More</button>
+          <button>Add to Cart</button>
+        </div>-->
+      </div>
+      <div class="productdetail-image">
+        <img src="/images/product-image/ARTJL090825153445324/2.webp" alt="Rosemary & Cucumber">
+      </div>
+    </div>
+
+    <div class="productdetail-collection">
+      <div class="productdetail-image">
+        <img src="/images/product-image/ARTJL090825153445324/3.webp" alt="Elderflower Syrup">
+      </div>
+      <div class="productdetail-content">
+        <h2>Care Tips</h2>
+        <p>Please avoid using perfumes or any other chemical substance on the product, store in a zip lock pouch</p>
+      </div>
+    </div>
+  </div>
+</body>
+</html>

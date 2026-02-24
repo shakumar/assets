@@ -1,0 +1,104 @@
+lenovo@lenovo-ThinkBook-16-G6-IRL:/etc/nginx/sites-available$ cat assets 
+server {
+    listen 8081;
+    server_name localhost;
+
+    # ======================
+    # JSON FILES
+    # ======================
+location ~* ^/cdn/(.*\.json)$ {
+
+    # ---- CORS PREFLIGHT ----
+    if ($request_method = OPTIONS) {
+        add_header Access-Control-Allow-Origin "*" always;
+        add_header Access-Control-Allow-Methods "GET, OPTIONS" always;
+        add_header Access-Control-Allow-Headers "*" always;
+        add_header Content-Length 0;
+        add_header Content-Type text/plain;
+        return 204;
+    }
+
+    alias /home/lenovo/sprouts/rt/ui/assets/$1;
+
+    etag on;
+    if_modified_since exact;
+    expires 5m;
+
+    add_header Cache-Control "public, max-age=300, stale-while-revalidate=30, stale-if-error=1200" always;
+    add_header Access-Control-Allow-Origin "*" always;
+    add_header Access-Control-Allow-Methods "GET, OPTIONS" always;
+    add_header Access-Control-Allow-Headers "*" always;
+
+    access_log off;
+}
+
+    # ======================
+    # IMAGES
+    # ======================
+location ~* ^/cdn/(.*\.(jpg|jpeg|png|gif|webp|svg|ico))$ {
+
+    if ($request_method = OPTIONS) {
+        add_header Access-Control-Allow-Origin "*" always;
+        add_header Access-Control-Allow-Methods "GET, OPTIONS" always;
+        add_header Access-Control-Allow-Headers "*" always;
+        return 204;
+    }
+
+    alias /home/lenovo/sprouts/rt/ui/assets/$1;
+
+    expires 2d;
+
+    add_header Cache-Control "public" always;
+    add_header Access-Control-Allow-Origin "*" always;
+    add_header Access-Control-Allow-Methods "GET, OPTIONS" always;
+    add_header Access-Control-Allow-Headers "*" always;
+
+    access_log off;
+}
+
+    # ======================
+    # HTML FILES
+    # ======================
+location ~* ^/cdn/(.*\.html)$ {
+
+    if ($request_method = OPTIONS) {
+        add_header Access-Control-Allow-Origin "*" always;
+        add_header Access-Control-Allow-Methods "GET, OPTIONS" always;
+        add_header Access-Control-Allow-Headers "*" always;
+        return 204;
+    }
+
+    alias /home/lenovo/sprouts/rt/ui/assets/$1;
+
+    expires 2d;
+
+    add_header Cache-Control "public" always;
+    add_header Access-Control-Allow-Origin "*" always;
+    add_header Access-Control-Allow-Methods "GET, OPTIONS" always;
+    add_header Access-Control-Allow-Headers "*" always;
+
+    access_log off;
+}
+
+    # ======================
+    # FALLBACK
+    # ======================
+    location /cdn/ {
+
+    if ($request_method = OPTIONS) {
+        add_header Access-Control-Allow-Origin "*" always;
+        add_header Access-Control-Allow-Methods "GET, OPTIONS" always;
+        add_header Access-Control-Allow-Headers "*" always;
+        add_header Content-Length 0;
+        add_header Content-Type text/plain;
+        return 204;
+    }
+
+    alias /home/lenovo/sprouts/rt/ui/assets/;
+
+    add_header Access-Control-Allow-Origin "*" always;
+    add_header Access-Control-Allow-Methods "GET, OPTIONS" always;
+    add_header Access-Control-Allow-Headers "*" always;
+}
+}
+

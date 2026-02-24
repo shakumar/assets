@@ -1,0 +1,143 @@
+{"data":{"message":"Successfully fetched offers.",
+    "data": {
+        "global": {
+            "printOffers": [
+                "1 Refferal = 1 Coin",
+                "Quiz = %marks achieved",
+                "Prepay-40%    Disc:0.5%",
+                "Prepay-Full    Disc:2.0%",
+                "BirthDay Offer    Disc:2.5%",
+                "Children BirthDay Offer    Disc:2.5%",
+                "Children BirthDay Offer    Disc:2.5%",
+                "MarriageDay Offer    Disc:3.0%",
+                "Purchase Discount For Next Order Offer    Disc:0.5%",
+                "Spouse BirthDay Offer    Disc:2.5%",
+                "Return Allowed Day Offer:2.0 Days",
+                "App-Purchase Offer    Disc:1.0%",
+                "Shipping Offer    Disc:5.0%",
+                "*Time to time we come with lot of additional offers like diwali eid chrismas lahori etc for our lovely family members"
+            ],
+            "custSubscription": "JUNIOR",
+            "ewalletAmount": "Rs.0.00",
+            "specialOffers": [],
+            "balanceAmountFromSumOfInfluencerAllAcounts": "Rs.0.00",
+            "referralEarn": 0,
+            "signupOfferDetail": "Rs.25 off on each order till 21-Jan-2026",
+            "paymentOffers": [
+                {
+                    "offerName": "Prepay-40%",
+                    "offerId": "PAY-OFR-PREPAY-40",
+                    "percDisc": 0.5
+                },
+                {
+                    "offerName": "Prepay-Full",
+                    "offerId": "PAY-OFR-PREPAY-FULL",
+                    "percDisc": 2.0
+                }
+            ],
+            "influencerDetail": [
+                {
+                    "promo": "P-1p",
+                    "tEarning": 0,
+                    "p2cust": "1.00",
+                    "p2infllocal": "0.10",
+                    "payusing": "upi/fxc@icici",
+                    "p2infl": "0.50",
+                    "p2custlocal": "0.10"
+                }
+            ],
+            "festiveOffers": [],
+            "subscriptionOffers": [
+                {
+                    "offerName": "App-Purchase Offer",
+                    "offerId": "SUB-OFR-APP-1",
+                    "percDisc": 1.0
+                },
+                {
+                    "offerName": "Shipping Offer",
+                    "offerId": "SUB-OFR-SHIPING-1",
+                    "percDisc": 5.0
+                }
+            ],
+            "personelOffers": [{"coupon":"b-1xtrhklahjkgak==","offerEndDate":"31-Jan-2026"},{"coupon":"m-sktrunzictyvbsqatyui1xtrhklahjkgak==","offerEndDate":"28-Jan-2026"}],
+            "earningOffers": [
+                {
+                    "offerName": "Total Amount Available In Wallet(Rs.)",
+                    "offerId": "EARN-OFR-TOT-1",
+                    "totalEarnedMoneyMsg": "(includes Signup Offer, Ewallet Amount, Refferal Offer, Amount From Influencer All Acounts)",
+                    "percDisc": 25.0
+                }
+            ],
+            "offersToken": "K4zcKiFfgPL6C8IUlgPdHqOLbNaq02ihRfxh8/jrDATNmKtEt/ojmmSw2q2LwuX8ZE9wE1j0Go+aqGIHIfA8q5NfOwmVm1krw2fDieJFHfVKBy9zJP6UNV0RgQ7JGT0FRVgoC/kz/2B2akWGWpKWW4j7oJxhvjIlFOjY2ZpXts0wv1/Av+YwMgxzzpIAj2//tWKhjcrkvzs1GsIg0teO+R0EeldZ3gjsNhGLAvWbUal0vNedTBXJG0OkZjW4GF7sVRsgdqYT8nkl9n+nqwQqHltgAFywY4lLsgLLvdfGErAPn+avjVm/7m/oPFuuozaWVPqFUzScImlv4tFwLTtUGxCwW5jXGiZWHcCgHQZc9pHNiQC3K0hAcrP3gyvGsYP+jMKBSeS055ckJOPEN7GsYekrfDFlwcxui/fbFC6NCc6GJ/TuyxcMyZ1jMCcOSSvyb4O74XVzcefREEyUkA9yUZnsqB/GRHSSuoL7iwykF/CKLUrgoGWXgAqbVZ4FfL9D1XDJHljUwuIrG+m7VS64kWKK0SGBlGgN7rQ0KnFwJn6EHUMyH6ctYlWJ5TcFXw+gJQ75LRwV+PPIjCAToEHRKnzjU4///0cK35EovRRfAo9i00lQ56EY8zQjvXBQc5xJ/62e/bQ8eulrAVtKPom8jDzkedpr70tMHcvrgoJVWqDdX65LhD9U/2X7v2LYX+RhF+asQFIQaBLY1eIRGmF8MUXxS6qcWrTBp0rT9yI1QgMAac8DGrMrFDyaz2IHU7tZwfAjunh+86KmbYqOqgzA4LaRqZg0AlCcZnhtkXCgJKaRb24nfyM5qDGcuicPNt6Sn7I200N8kMSFhPZOYMIlVC2OLlPBlBSUAdrg4Uyv7ArrBI8qSBs5HdSGeZjevlDmtQuXs59zJfTVYu0oNDtrg9FwHpJe+412HrUHFbzy0BA="
+        },
+        "local": {
+            "printOffers": [
+                "1 Refferal = 1 Coin",
+                "Quiz = %marks achieved",
+                "Prepay-40%    Disc:0.3%",
+                "Prepay-Full    Disc:2.0%",
+                "BirthDay Offer    Disc:2.0%",
+                "Children BirthDay Offer    Disc:2.0%",
+                "Children BirthDay Offer    Disc:2.0%",
+                "MarriageDay Offer    Disc:2.0%",
+                "Purchase Discount For Next Order Offer    Disc:1.0%",
+                "Spouse BirthDay Offer    Disc:2.0%",
+                "Return Allowed Day Offer:0.0 Days",
+                "App-Purchase Offer    Disc:0.2%",
+                "Shipping Offer    Disc:0.0%",
+                "*Time to time we come with lot of additional offers like diwali eid chrismas lahori etc for our lovely family members"
+            ],
+            "custSubscription": "SILVER",
+            "ewalletAmount": "Rs.0.00",
+            "specialOffers": [],
+            "balanceAmountFromSumOfInfluencerAllAcounts": "Rs.0.00",
+            "referralEarn": 0,
+            "signupOfferDetail": "Rs.25 off on each order till 21-Jan-2026",
+            "paymentOffers": [
+                {
+                    "offerName": "Prepay-40%",
+                    "offerId": "PAY-OFR-PREPAY-40-L",
+                    "percDisc": 0.3
+                },
+                {
+                    "offerName": "Prepay-Full",
+                    "offerId": "PAY-OFR-PREPAY-FULL-L",
+                    "percDisc": 2.0
+                }
+            ],
+            "influencerDetail": [
+                {
+                    "promo": "P-1p",
+                    "tEarning": 0,
+                    "p2cust": "1.00",
+                    "p2infllocal": "0.10",
+                    "payusing": "upi/fxc@icici",
+                    "p2infl": "0.50",
+                    "p2custlocal": "0.10"
+                }
+            ],
+            "festiveOffers": [],
+            "subscriptionOffers": [
+                {
+                    "offerName": "App-Purchase Offer",
+                    "offerId": "SUB-OFR-APP-1-L",
+                    "percDisc": 0.2
+                },
+                {
+                    "offerName": "Shipping Offer",
+                    "offerId": "SUB-OFR-SHIPING-1-L",
+                    "percDisc": 0.0
+                }
+            ],
+            "personelOffers": [],
+            "earningOffers": [
+                {
+                    "offerName": "Total Amount Available In Wallet(Rs.)",
+                    "offerId": "EARN-OFR-TOT-1",
+                    "totalEarnedMoneyMsg": "(includes Signup Offer, Ewallet Amount, Refferal Offer, Amount From Influencer All Acounts)",
+                    "percDisc": 25.0
+                }
+            ],
+            "offersToken": "K4zcKiFfgPL6C8IUlgPdHqOLbNaq02ihRfxh8/jrDATNmKtEt/ojmmSw2q2LwuX8ZE9wE1j0Go+aqGIHIfA8q5NfOwmVm1krw2fDieJFHfVKBy9zJP6UNV0RgQ7JGT0FRVgoC/kz/2B2akWGWpKWW4j7oJxhvjIlFOjY2ZpXts0wv1/Av+YwMgxzzpIAj2//tWKhjcrkvzs1GsIg0teO+brSlPlxwAM9LS3/cDtmiHLXuRrGvSo8aWd37k3mHFScRuinXuDZYc7sFGArxir6/g10ACwdbn9ji61vPrMiDbxR+OzRkKplnBgJbOL5Q5kxR62tbeTUhqj8gFRJjC9cqg6+MKtwopntc/EDERnzz4Fv/iXP+ozgIArbSNPgPXsjuigeI9MFhLOimtIAY9WG2Bwg5acnKnRrc+KX1TxLGVqaNOsGRJqEEVEnyMa9JD11o9Dx8Z9+T7V5+bib06A9YAhKDyCRhai0D7wYv72k5634/JacFKgZr9vl3Y91b+d/rLt4vXEMMr29bROV4KCaQm+RQ41+dx+C4KkPh3JkrsaMayYAyqxeE/JNVFTh2Z+Ifccn4u3iAO4tbIdrrcXivAT0e1dH8Y9H53XCt6eYJT//UMpFAFWTch0hAXxl3CFM04LiQgup3hgiRyPRi/sQnEMXugL+tWEuVANDbXl+9rTKebIp1IYr2dY3IxcLlpguUYA0N0udT8ChClvzC0qSbTTVzHujsXiT5qfcMR7x15cQ6nuVewXipF0wGwKOPgjp4UOTn6HePAHIDCbOq8NufUeAByrsITEtBc/Dz14zeuXIMfWOK6xMJXSx7kiDxF7qkIQVfhoBBwhCl9l5p4gwaNDUxQIg16uknM5d2i4ghJS4Ymd/8xqXa7Hm0FtLO17ci5SKiQRPp8BNh3Z686wqQrSwZ68Gpm/HqOdG+F1hASevoGsNmWWKbVHgAFdPKfJV"
+        }
+    }, "success":true},"accessToken":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI1WFhma2F1a1FsMXRZWnNaRmZKNnRrSDkrNnhUOVg5M3dXczdITFJ0T09JPSIsImlhdCI6MTc2NzcxNzgxMDc3MywiZXhwIjoxNzY3NzE5NjEwNzczfQ.111111111111111111111111100110011101111111111111111111111111010011011111111111111111111111111110101111111111111111111111111100001111100001111111111111111111111111111111111111111111111111111111111111101010001111111111111111111111111111000111111111111111111111111110101001111111111111111111111111110101101111001110000011111111111111111111111110011101111111111111111111111111100101011111111111111111111111111111110010011011111111111111111111111111001010111111111111111111111111100011011100101111111111111111111111111100000011110111111111111111111111111111111011011111111111111111111111110100011111111111111111111111111110100011111111111111111111111111101000110010101111111111111111111111111000001011111111111111111111111110011010110111000100","id":"5XXfkaukQl1tYZsZFfJ6tkH9+6xT9X93wWs7HLRtOOI=","accessTokenRefreshed":true,"success":true}

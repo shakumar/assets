@@ -1,0 +1,4 @@
+515501,India,ANDHRA PRADESH,ANANTAPUR,Chinnarayanipalli B.O
+515865,India,ANDHRA PRADESH,ANANTAPUR,Muradi B.O@Obulapuram B.O@Pallepalli B.O@Kalyam B.O@Muradi Hanumapuram B.O@R.B.Vanka B.O
+515870,India,ANDHRA PRADESH,ANANTAPUR,Bollanaguddem B.O
+515871,India,ANDHRA PRADESH,ANANTAPUR,Singanahalli B.O@Sreedharghatta B.O

@@ -1,0 +1,962 @@
+{
+    "data": {
+        "message": "successfully fetched customer-pagemenu",
+        "data": {
+            "menu": [
+                {
+                    "id": "1",
+                    "menu": "Cloths",
+                    "imagePath": "/images/menu/cloths.webp",
+                    "isActive": "1",
+                    "children": [
+                        {
+                            "id": "1.1",
+                            "menu": "Men",
+                            "imagePath": "/images/menu/cloths-men.webp",
+                            "isActive": "1",
+                            "children": [
+                                {
+                                    "id": "1.1.1",
+                                    "menu": "Jeans",
+                                    "imagePath": "/images/menu/jeans-men.webp",
+                                    "link": "/ProductListing/cloths-jeans-men",
+                                    "isActive": "1"
+                                },
+                                {
+                                    "id": "1.1.2",
+                                    "menu": "Trousers",
+                                    "imagePath": "/images/menu/trousers-men.webp",
+                                    "isActive": "1",
+                                    "link": "/ProductListing/cloths-trousers-men"
+                                },
+                                {
+                                    "id": "1.1.3",
+                                    "menu": "Pyjama",
+                                    "imagePath": "/images/menu/pyjama-men.webp",
+                                    "isActive": "1",
+                                    "link": "/ProductListing/cloths-pyjama-men"
+                                },
+                                {
+                                    "id": "1.1.4",
+                                    "menu": "Shirts",
+                                    "imagePath": "/images/menu/shirts-men.webp",
+                                    "isActive": "1",
+                                    "link": "/ProductListing/cloths-shirts-men"
+                                },
+                                {
+                                    "id": "1.1.5",
+                                    "menu": "Tshirt",
+                                    "imagePath": "/images/menu/tshirt-men.webp",
+                                    "isActive": "1",
+                                    "link": "/ProductListing/cloths-tshirt-men"
+                                },
+                                {
+                                    "id": "1.1.6",
+                                    "menu": "Kurta-Pyjama",
+                                    "imagePath": "/images/menu/kurta-pyjama-men.webp",
+                                    "isActive": "1",
+                                    "link": "/ProductListing/cloths-kurta-pyjama-men"
+                                },
+                                {
+                                    "id": "1.1.7",
+                                    "menu": "Winter Wear",
+                                    "imagePath": "/images/menu/winter-Items.webp",
+                                    "isActive": "1",
+                                    "link": "/ProductListing/winter-wear-men"
+                                },
+                                {
+                                    "id": "1.1.12",
+                                    "menu": "MenAll",
+                                    "imagePath": "/images/menu/clothsall-men.webp",
+                                    "isActive": "1",
+                                    "link": "/ProductListing/cloths-all-men"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "1.2",
+                            "menu": "Women",
+                            "imagePath": "/images/menu/cloths-women.webp",
+                            "isActive": "1",
+                            "children": [
+                                {
+                                    "id": "1.2.1",
+                                    "menu": "Jeans",
+                                    "imagePath": "/images/menu/jeans-women.webp",
+                                    "isActive": "1",
+                                    "link": "/ProductListing/cloths-jeans-women"
+                                },
+                                {
+                                    "id": "1.2.2",
+                                    "menu": "Trousers",
+                                    "imagePath": "/images/menu/trousers-women.webp",
+                                    "isActive": "1",
+                                    "link": "/ProductListing/cloths-trousers-women"
+                                },
+                                {
+                                    "id": "1.2.3",
+                                    "menu": "Palazzo",
+                                    "imagePath": "/images/menu/palazzo-women.webp",
+                                    "isActive": "1",
+                                    "link": "/ProductListing/cloths-palazzo-women"
+                                },
+                                {
+                                    "id": "1.2.4",
+                                    "menu": "Tshirt",
+                                    "imagePath": "/images/menu/tshirt-women.webp",
+                                    "isActive": "1",
+                                    "link": "/ProductListing/cloths-tshirt-women"
+                                },
+                                {
+                                    "id": "1.2.5",
+                                    "menu": "Skirts",
+                                    "imagePath": "/images/menu/skirts-women.webp",
+                                    "isActive": "1",
+                                    "link": "/ProductListing/cloths-skirts-women"
+                                },
+                                {
+                                    "id": "1.2.6",
+                                    "menu": "InnerWear",
+                                    "imagePath": "/images/menu/innerwear-women.webp",
+                                    "isActive": "1",
+                                    "link": "/ProductListing/cloths-innerwear-women"
+                                },
+                                {
+                                    "id": "1.2.7",
+                                    "menu": "Winter Wear",
+                                    "imagePath": "/images/menu/winter-Items.webp",
+                                    "isActive": "1",
+                                    "link": "/ProductListing/winter-wear-women"
+                                },
+                                {
+                                    "id": "1.2.12",
+                                    "menu": "WomenAll",
+                                    "imagePath": "/images/menu/clothsall-women.webp",
+                                    "isActive": "1",
+                                    "link": "/ProductListing/cloths-all-women"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "1.3",
+                            "menu": "Men-Women",
+                            "imagePath": "/images/menu/cloths-men-women.webp",
+                            "isActive": "1",
+                            "children": [
+                                {
+                                    "id": "1.3.1",
+                                    "menu": "Jeans",
+                                    "imagePath": "/images/menu/jeans-men-women.webp",
+                                    "isActive": "1",
+                                    "link": "/ProductListing/cloths-jeans-men-women"
+                                },
+                                {
+                                    "id": "1.3.2",
+                                    "menu": "Trousers",
+                                    "imagePath": "/images/menu/trousers-men-women.webp",
+                                    "isActive": "1",
+                                    "link": "/ProductListing/cloths-trousers-men-women"
+                                },
+                                {
+                                    "id": "1.3.3",
+                                    "menu": "Tshirt",
+                                    "imagePath": "/images/menu/tshirt-men-women.webp",
+                                    "isActive": "1",
+                                    "link": "/ProductListing/cloths-tshirt-men-women"
+                                },
+                                {
+                                    "id": "1.3.7",
+                                    "menu": "Winter Wear",
+                                    "imagePath": "/images/menu/winter-Items.webp",
+                                    "isActive": "1",
+                                    "link": "/ProductListing/winter-wear-men-women"
+                                },
+                                {
+                                    "id": "1.3.12",
+                                    "menu": "ForBothAll",
+                                    "imagePath": "/images/menu/clothsall-men-women.webp",
+                                    "isActive": "1",
+                                    "link": "/ProductListing/cloths-all-men-women"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "1.4",
+                            "menu": "Boys-3-12years",
+                            "imagePath": "/images/menu/cloths-boys-3-12years.webp",
+                            "isActive": "1",
+                            "children": [
+                                {
+                                    "id": "1.4.1",
+                                    "menu": "Jeans",
+                                    "imagePath": "/images/menu/jeans-boys-3-12years.webp",
+                                    "isActive": "1",
+                                    "link": "/ProductListing/cloths-jeans-boys-3-12years"
+                                },
+                                {
+                                    "id": "1.4.2",
+                                    "menu": "Tshirt",
+                                    "imagePath": "/images/menu/tshirt-boys-3-12years.webp",
+                                    "isActive": "1",
+                                    "link": "/ProductListing/cloths-tshirt-boys-3-12years"
+                                },
+                                {
+                                    "id": "1.4.3",
+                                    "menu": "Kurta-Pyjama",
+                                    "imagePath": "/images/menu/kurta-pyjama-boys-3-12years.webp",
+                                    "isActive": "1",
+                                    "link": "/ProductListing/cloths-kurta-pyjama-boys-3-12years"
+                                },
+                                {
+                                    "id": "1.4.4",
+                                    "menu": "NightSuit",
+                                    "imagePath": "/images/menu/nightsuit-boys-3-12years.webp",
+                                    "isActive": "1",
+                                    "link": "/ProductListing/cloths-nightsuit-boys-3-12years"
+                                },
+                                {
+                                    "id": "1.4.12",
+                                    "menu": "BoysAll",
+                                    "imagePath": "/images/menu/clothsall-boys-3-12years.webp",
+                                    "isActive": "1",
+                                    "link": "/ProductListing/cloths-all-boys-3-12years"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "1.5",
+                            "menu": "Girls-3-12years",
+                            "imagePath": "/images/menu/cloths-girls-3-12years.webp",
+                            "isActive": "1",
+                            "children": [
+                                {
+                                    "id": "1.5.1",
+                                    "menu": "Jeans",
+                                    "imagePath": "/images/menu/jeans-girls-3-12years.webp",
+                                    "isActive": "1",
+                                    "link": "/ProductListing/cloths-jeans-girls-3-12years"
+                                },
+                                {
+                                    "id": "1.5.2",
+                                    "menu": "Tshirt",
+                                    "imagePath": "/images/menu/tshirt-girls-3-12years.webp",
+                                    "isActive": "1",
+                                    "link": "/ProductListing/cloths-tshirt-girls-3-12years"
+                                },
+                                {
+                                    "id": "1.5.3",
+                                    "menu": "Lahanga",
+                                    "imagePath": "/images/menu/lahanga-girls-3-12years.webp",
+                                    "isActive": "1",
+                                    "link": "/ProductListing/cloths-lahanga-girls-3-12years"
+                                },
+                                {
+                                    "id": "1.5.4",
+                                    "menu": "NightSuit",
+                                    "imagePath": "/images/menu/nightsuit-girls-3-12years.webp",
+                                    "isActive": "1",
+                                    "link": "/ProductListing/cloths-nightsuit-girls-3-12years"
+                                },
+                                {
+                                    "id": "1.5.12",
+                                    "menu": "GirlsAll",
+                                    "imagePath": "/images/menu/clothsall-girls-3-12years.webp",
+                                    "isActive": "1",
+                                    "link": "/ProductListing/cloths-all-girls-3-12years"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "1.6",
+                            "menu": "Boy-Girl",
+                            "imagePath": "/images/menu/cloths-boy-girl.webp",
+                            "isActive": "1",
+                            "children": [
+                                {
+                                    "id": "1.6.1",
+                                    "menu": "Jeans",
+                                    "imagePath": "/images/menu/jeans-boy-girl.webp",
+                                    "isActive": "1",
+                                    "link": "/ProductListing/cloths-jeans-boy-girl"
+                                },
+                                {
+                                    "id": "1.6.2",
+                                    "menu": "Tshirt",
+                                    "imagePath": "/images/menu/tshirt-boy-girl.webp",
+                                    "isActive": "1",
+                                    "link": "/ProductListing/cloths-tshirt-boy-girl"
+                                },
+                                {
+                                    "id": "1.6.3",
+                                    "menu": "NightSuit",
+                                    "imagePath": "/images/menu/nightsuit-boy-girl.webp",
+                                    "isActive": "1",
+                                    "link": "/ProductListing/cloths-nightsuit-boy-girl"
+                                },
+                                {
+                                    "id": "1.6.7",
+                                    "menu": "Winter Wear",
+                                    "imagePath": "/images/menu/winter-Items.webp",
+                                    "isActive": "1",
+                                    "link": "/ProductListing/winter-wear-boy-girl"
+                                },
+                                {
+                                    "id": "1.6.12",
+                                    "menu": "ForBothAll",
+                                    "imagePath": "/images/menu/clothsall-boy-girl.webp",
+                                    "isActive": "1",
+                                    "link": "/ProductListing/cloths-all-boy-girl"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "1.7",
+                            "menu": "Kids",
+                            "imagePath": "/images/menu/cloths-kids.webp",
+                            "isActive": "1",
+                            "children": [
+                                {
+                                    "id": "1.7.1",
+                                    "menu": "Dress",
+                                    "imagePath": "/images/menu/dress-kids.webp",
+                                    "isActive": "1",
+                                    "link": "/ProductListing/cloths-kids"
+                                },
+                                {
+                                    "id": "1.7.2",
+                                    "menu": "Toys",
+                                    "imagePath": "/images/menu/toys-kids.webp",
+                                    "isActive": "1",
+                                    "link": "/ProductListing/toys-kids"
+                                },
+                                {
+                                    "id": "1.7.3",
+                                    "menu": "Diapers",
+                                    "imagePath": "/images/menu/diaper-kids.webp",
+                                    "isActive": "1",
+                                    "link": "/ProductListing/diaper-kids"
+                                },
+                                {
+                                    "id": "1.7.12",
+                                    "menu": "KidsAll",
+                                    "imagePath": "/images/menu/itemsall-kids.webp",
+                                    "isActive": "1",
+                                    "link": "/ProductListing/item-all-kids"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "2",
+                    "menu": "Wedding",
+                    "imagePath": "/images/menu/wedding.webp",
+                    "isActive": "1",
+                    "children": [
+                        {
+                            "id": "2.1",
+                            "menu": "Bridal-Groom",
+                            "imagePath": "/images/menu/wedding.webp",
+                            "isActive": "1",
+                            "children": [
+                                {
+                                    "id": "2.1.1",
+                                    "menu": "For Bridal",
+                                    "imagePath": "/images/menu/bridal.webp",
+                                    "link": "/ProductListing/bridal",
+                                    "isActive": "1"
+                                },
+                                {
+                                    "id": "2.1.2",
+                                    "menu": "For Groom",
+                                    "imagePath": "/images/menu/groom.webp",
+                                    "link": "/ProductListing/groom",
+                                    "isActive": "1"
+                                }
+                            ]
+                        }
+                    ]
+                },
+               {
+                    "id": "4",
+                    "menu": "Shoes",
+                    "imagePath": "/images/menu/shoes.webp",
+                    "isActive": "1",
+                    "children": [
+                        {
+                            "id": "4.1",
+                            "menu": "Men",
+                            "imagePath": "/images/menu/shoes.webp",
+                            "isActive": "1",
+                            "children": [
+                                {
+                                    "id": "4.1.1",
+                                    "menu": "Sports",
+                                    "imagePath": "/images/menu/shoes-sports-men.webp",
+                                    "link": "/ProductListing/shoes-sports-men",
+                                    "isActive": "1"
+                                },
+                                {
+                                    "id": "4.1.2",
+                                    "menu": "Casual",
+                                    "imagePath": "/images/menu/shoes-casual-men.webp",
+                                    "isActive": "1",
+                                    "link": "/ProductListing/shoes-casual-men"
+                                },
+                                {
+                                    "id": "4.1.3",
+                                    "menu": "Sandals",
+                                    "imagePath": "/images/menu/shoes-sandals-men.webp",
+                                    "isActive": "1",
+                                    "link": "/ProductListing/shoes-sandals-men"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "4.2",
+                            "menu": "Women",
+                            "imagePath": "/images/menu/shoes.webp",
+                            "isActive": "1",
+                            "children": [
+                                {
+                                    "id": "4.2.1",
+                                    "menu": "Sports",
+                                    "imagePath": "/images/menu/shoes-sports-women.webp",
+                                    "link": "/ProductListing/shoes-sports-women",
+                                    "isActive": "1"
+                                },
+                                {
+                                    "id": "4.2.2",
+                                    "menu": "Casual",
+                                    "imagePath": "/images/menu/shoes-casual-women.webp",
+                                    "isActive": "1",
+                                    "link": "/ProductListing/shoes-casual-women"
+                                },
+                                {
+                                    "id": "4.2.3",
+                                    "menu": "Sandals",
+                                    "imagePath": "/images/menu/shoes-sandals-women.webp",
+                                    "isActive": "1",
+                                    "link": "/ProductListing/shoes-sandals-women"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "4.3",
+                            "menu": "Kids",
+                            "imagePath": "/images/menu/shoes.webp",
+                            "isActive": "1",
+                            "children": [
+                                {
+                                    "id": "4.3.1",
+                                    "menu": "Kid's Footwear",
+                                    "imagePath": "/images/menu/footwear-kids.webp",
+                                    "isActive": "1",
+                                    "link": "/ProductListing/HomeFootwearKids-all"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "6",
+                    "menu": "Bag&Belt",
+                    "imagePath": "/images/menu/bagbelt.webp",
+                    "isActive": "1",
+                    "children": [
+                        {
+                            "id": "6.1",
+                            "menu": "Men",
+                            "imagePath": "/images/menu/bagbelt-men.webp",
+                            "isActive": "1",
+                            "children": [
+                                {
+                                    "id": "6.1.1",
+                                    "menu": "Bags",
+                                    "imagePath": "/images/menu/bags-men.webp",
+                                    "link": "/ProductListing/bags-men",
+                                    "isActive": "1"
+                                },
+                                {
+                                    "id": "6.1.2",
+                                    "menu": "Wallets",
+                                    "imagePath": "/images/menu/wallets-men.webp",
+                                    "link": "/ProductListing/wallets-men",
+                                    "isActive": "1"
+                                },
+                                {
+                                    "id": "6.1.3",
+                                    "menu": "Belts",
+                                    "imagePath": "/images/menu/belts-men.webp",
+                                    "isActive": "1",
+                                    "link": "/ProductListing/belts-men"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "6.2",
+                            "menu": "Women",
+                            "imagePath": "/images/menu/bagbelt-women.webp",
+                            "isActive": "1",
+                            "children": [
+                                {
+                                    "id": "6.2.1",
+                                    "menu": "Bags",
+                                    "imagePath": "/images/menu/bags-women.webp",
+                                    "link": "/ProductListing/bags-women",
+                                    "isActive": "1"
+                                },
+                                {
+                                    "id": "6.2.2",
+                                    "menu": "Purses",
+                                    "imagePath": "/images/menu/purses-women.webp",
+                                    "link": "/ProductListing/purses-women",
+                                    "isActive": "1"
+                                },
+                                {
+                                    "id": "6.2.3",
+                                    "menu": "Belts",
+                                    "imagePath": "/images/menu/belts-women.webp",
+                                    "isActive": "1",
+                                    "link": "/ProductListing/belts-women"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "6.3",
+                            "menu": "Kids",
+                            "imagePath": "/images/menu/bagbelt-kids.webp",
+                            "isActive": "1",
+                            "children": [
+                                {
+                                    "id": "6.3.1",
+                                    "menu": "Bags",
+                                    "imagePath": "/images/menu/bags-kids.webp",
+                                    "link": "/ProductListing/bags-kids",
+                                    "isActive": "1"
+                                },
+                                {
+                                    "id": "6.3.2",
+                                    "menu": "Batua",
+                                    "imagePath": "/images/menu/purses-kids.webp",
+                                    "link": "/ProductListing/purses-kids",
+                                    "isActive": "1"
+                                },
+                                {
+                                    "id": "6.3.3",
+                                    "menu": "Belts",
+                                    "imagePath": "/images/menu/belts-kids.webp",
+                                    "isActive": "1",
+                                    "link": "/ProductListing/belts-kids"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                                {
+                    "id": "7",
+                    "menu": "Fashion",
+                    "imagePath": "/images/menu/cap-glass.webp",
+                    "isActive": "1",
+                    "children": [
+                        {
+                            "id": "7.1",
+                            "menu": "Watch",
+                            "imagePath": "/images/menu/watch.webp",
+                            "isActive": "1",
+                            "children": [
+                                {
+                                    "id": "7.1.1",
+                                    "menu": "Men",
+                                    "imagePath": "/images/menu/watch-men.webp",
+                                    "link": "/ProductListing/elctronicswatch-watch-men",
+                                    "isActive": "1"
+                                },
+                                {
+                                    "id": "7.1.2",
+                                    "menu": "Women",
+                                    "imagePath": "/images/menu/watch-women.webp",
+                                    "link": "/ProductListing/elctronicswatch-watch-women",
+                                    "isActive": "1"
+                                },
+                                {
+                                    "id": "7.1.3",
+                                    "menu": "Kids",
+                                    "imagePath": "/images/menu/watch-kids.webp",
+                                    "link": "/ProductListing/elctronicswatch-watch-kids",
+                                    "isActive": "1"
+                                },
+                                {
+                                    "id": "7.1.12",
+                                    "menu": "Watch-All",
+                                    "imagePath": "/images/menu/watch-all.webp",
+                                    "link": "/ProductListing/elctronicswatch-watch-all",
+                                    "isActive": "1"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "7.2",
+                            "menu": "Fashion-Mix",
+                            "imagePath": "/images/menu/cap-glass.webp",
+                            "isActive": "1",
+                            "children": [
+                                {
+                                    "id": "7.2.1",
+                                    "menu": "Caps",
+                                    "imagePath": "/images/menu/ladies-cap.webp",
+                                    "link": "/ProductListing/cap",
+                                    "isActive": "1"
+                                },
+                                {
+                                    "id": "7.2.2",
+                                    "menu": "Glass",
+                                    "imagePath": "/images/menu/chasma.webp",
+                                    "link": "/ProductListing/chasma",
+                                    "isActive": "1"
+                                },
+                                {
+                                    "id": "7.2.12",
+                                    "menu": "All",
+                                    "imagePath": "/images/menu/fashion-all.webp",
+                                    "isActive": "1",
+                                    "link": "/ProductListing/fashion-all"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "8",
+                    "menu": "Sports",
+                    "imagePath": "/images/menu/sports.webp",
+                    "isActive": "1",
+                    "children": [
+                        {
+                            "id": "8.1",
+                            "menu": "For All",
+                            "imagePath": "/images/menu/sports-forall.webp",
+                            "isActive": "1",
+                            "children": [
+                                {
+                                    "id": "8.1.12",
+                                    "menu": "All",
+                                    "imagePath": "/images/menu/sports-forall.webp",
+                                    "link": "/ProductListing/sports-forall",
+                                    "isActive": "1"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "9",
+                    "menu": "Jewellery",
+                    "imagePath": "/images/menu/jewellery.webp",
+                    "isActive": "1",
+                    "children": [
+                        {
+                            "id": "9.1",
+                            "menu": "For All",
+                            "imagePath": "/images/menu/jewellary-forall.webp",
+                            "isActive": "1",
+                            "children": [
+                                {
+                                    "id": "9.1.1",
+                                    "menu": "Bracelets",
+                                    "imagePath": "/images/menu/bracelets-forall.webp",
+                                    "link": "/ProductListing/jewellery-bracelets-forall",
+                                    "isActive": "1"
+                                },
+                                {
+                                    "id": "9.1.2",
+                                    "menu": "Chain",
+                                    "imagePath": "/images/menu/chain-forall.webp",
+                                    "link": "/ProductListing/jewellery-chain-forall",
+                                    "isActive": "1"
+                                },
+                                {
+                                    "id": "9.1.3",
+                                    "menu": "Earings",
+                                    "imagePath": "/images/menu/earings-forall.webp",
+                                    "link": "/ProductListing/jewellery-earings-forall",
+                                    "isActive": "1"
+                                },
+                                {
+                                    "id": "9.1.12",
+                                    "menu": "All",
+                                    "imagePath": "/images/menu/mix-forall.webp",
+                                    "link": "/ProductListing/jewellery-mix-forall",
+                                    "isActive": "1"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "10",
+                    "menu": "Perfume",
+                    "imagePath": "/images/menu/perfume.webp",
+                    "isActive": "1",
+                    "children": [
+                        {
+                            "id": "10.1",
+                            "menu": "For All",
+                            "imagePath": "/images/menu/perfume-forall.webp",
+                            "isActive": "1",
+                            "children": [
+                                {
+                                    "id": "10.1.1",
+                                    "menu": "Deodrant",
+                                    "imagePath": "/images/menu/deodrant-forall.webp",
+                                    "link": "/ProductListing/perfume-deodrant-forall",
+                                    "isActive": "1"
+                                },
+                                {
+                                    "id": "10.1.2",
+                                    "menu": "Cloth-Perfume",
+                                    "imagePath": "/images/menu/cloth-perfume-forall.webp",
+                                    "link": "/ProductListing/cloth-perfume-forall",
+                                    "isActive": "1"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "12",
+                    "menu": "Electronics",
+                    "imagePath": "/images/menu/electronicswatch.webp",
+                    "isActive": "1",
+                    "children": [
+                        {
+                            "id": "12.1",
+                            "menu": "Mobile",
+                            "imagePath": "/images/menu/mobile.webp",
+                            "isActive": "1",
+                            "children": [
+                                {
+                                    "id": "12.1.1",
+                                    "menu": "Cases",
+                                    "imagePath": "/images/menu/mobile-cases.webp",
+                                    "isActive": "1",
+                                    "link": "/ProductListing/mobile-cases"
+                                },
+                                {
+                                    "id": "12.1.2",
+                                    "menu": "ScreenGuards",
+                                    "imagePath": "/images/menu/mobile-screenguards.webp",
+                                    "isActive": "1",
+                                    "link": "/ProductListing/mobile-screenguards"
+                                },
+                                {
+                                    "id": "12.1.3",
+                                    "menu": "Accessories",
+                                    "imagePath": "/images/menu/mobile-accessories.webp",
+                                    "isActive": "1",
+                                    "link": "/ProductListing/mobile-accessories"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "12.2",
+                            "menu": "Computer",
+                            "imagePath": "/images/menu/computer.webp",
+                            "isActive": "1",
+                            "children": [
+                                {
+                                    "id": "12.2.1",
+                                    "menu": "Storage",
+                                    "imagePath": "/images/menu/computer-card-pendrive.webp",
+                                    "isActive": "1",
+                                    "link": "/ProductListing/computer-card-pendrive"
+                                },
+                                {
+                                    "id": "12.2.2",
+                                    "menu": "Accessories",
+                                    "imagePath": "/images/menu/computer-keyborad-mouse-pad.webp",
+                                    "isActive": "1",
+                                    "link": "/ProductListing/computer-keyboard-mouse-pad"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "12.3",
+                            "menu": "Light&Bulb",
+                            "imagePath": "/images/menu/light-bulb.webp",
+                            "isActive": "1",
+                            "children": [
+                                {
+                                    "id": "12.3.1",
+                                    "menu": "Bulb",
+                                    "imagePath": "/images/menu/bulb.webp",
+                                    "isActive": "1",
+                                    "link": "/ProductListing/light-bulb"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "15",
+                    "menu": "Book&Stationary",
+                    "imagePath": "/images/menu/bookstationary.webp",
+                    "isActive": "1",
+                    "children": [
+                        {
+                            "id": "15.1",
+                            "menu": "Books",
+                            "imagePath": "/images/menu/books.webp",
+                            "isActive": "1",
+                            "children": [
+                                {
+                                    "id": "15.1.1",
+                                    "menu": "Religious",
+                                    "imagePath": "/images/menu/book-religious.webp",
+                                    "link": "/ProductListing/book-religious",
+                                    "isActive": "1"
+                                },
+                                {
+                                    "id": "15.1.2",
+                                    "menu": "Science",
+                                    "imagePath": "/images/menu/book-science.webp",
+                                    "link": "/ProductListing/book-science",
+                                    "isActive": "1"
+                                },
+                                {
+                                    "id": "15.1.3",
+                                    "menu": "Magazine",
+                                    "imagePath": "/images/menu/book-magazine.webp",
+                                    "link": "/ProductListing/book-magazine",
+                                    "isActive": "1"
+                                },
+                                {
+                                    "id": "15.1.12",
+                                    "menu": "All",
+                                    "imagePath": "/images/menu/book-all.webp",
+                                    "link": "/ProductListing/book-all",
+                                    "isActive": "1"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "15.2",
+                            "menu": "Stationary",
+                            "imagePath": "/images/menu/stationary.webp",
+                            "isActive": "1",
+                            "children": [
+                                {
+                                    "id": "15.2.1",
+                                    "menu": "Diary",
+                                    "imagePath": "/images/menu/stationary-diary.webp",
+                                    "link": "/ProductListing/stationary-diary",
+                                    "isActive": "1"
+                                },
+                                {
+                                    "id": "15.2.2",
+                                    "menu": "Others",
+                                    "imagePath": "/images/menu/stationary-others.webp",
+                                    "link": "/ProductListing/stationary-others",
+                                    "isActive": "1"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "17",
+                    "menu": "Home-Utensil",
+                    "imagePath": "/images/menu/homeutensil.webp",
+                    "isActive": "1",
+                    "children": [
+                        {
+                            "id": "17.1",
+                            "menu": "For All",
+                            "imagePath": "/images/menu/homeutensil.webp",
+                            "isActive": "1",
+                            "children": [
+                                {
+                                    "id": "17.1.12",
+                                    "menu": "All",
+                                    "imagePath": "/images/menu/homeutensil-all.webp",
+                                    "link": "/ProductListing/home-utensils-all",
+                                    "isActive": "1"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "18",
+                    "menu": "Art-Craft",
+                    "imagePath": "/images/menu/art-craft.webp",
+                    "isActive": "1",
+                    "children": [
+                        {
+                            "id": "18.1",
+                            "menu": "For All",
+                            "imagePath": "/images/menu/art-craft.webp",
+                            "isActive": "1",
+                            "children": [
+                                {
+                                    "id": "18.1.1",
+                                    "menu": "Art",
+                                    "imagePath": "/images/menu/art.webp",
+                                    "link": "/ProductListing/art-article",
+                                    "isActive": "1"
+                                },
+                                {
+                                    "id": "18.1.2",
+                                    "menu": "Crafts",
+                                    "imagePath": "/images/menu/craft.webp",
+                                    "link": "/ProductListing/craft-article",
+                                    "isActive": "1"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "19",
+                    "menu": "Pooja Item",
+                    "imagePath": "/images/menu/religious-items.webp",
+                    "isActive": "1",
+                    "children": [
+                        {
+                            "id": "19.1",
+                            "menu": "For All",
+                            "imagePath": "/images/menu/books.webp",
+                            "isActive": "1",
+                            "children": [
+                                {
+                                    "id": "19.1.1",
+                                    "menu": "Pooja Article",
+                                    "imagePath": "/images/menu/religious-items-article.webp",
+                                    "link": "/ProductListing/religious-pooja-article",
+                                    "isActive": "1"
+                                },
+                                {
+                                    "id": "19.1.2",
+                                    "menu": "Prayer Beads",
+                                    "imagePath": "/images/menu/religious-items-bead.webp",
+                                    "link": "/ProductListing/religious-prayer-beads",
+                                    "isActive": "1"
+                                },
+                                {
+                                    "id": "19.1.12",
+                                    "menu": "All",
+                                    "imagePath": "/images/menu/religious-items-all.webp",
+                                    "link": "/ProductListing/religious-all",
+                                    "isActive": "1"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "success": true
+    },
+    "success": true,
+    "accessTokenRefreshed": false
+}

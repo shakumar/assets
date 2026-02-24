@@ -1,0 +1,370 @@
+{
+  "textaudiovideoadbox" : {
+    "id" : 1,
+    "isActive" : 0,
+    "type" : "video/mp44",
+    "path" : "https://www.youtube.com/embed/Ihjo_iwkklc?rel=0"
+  },
+  "textaudiovideoadboxImgView" : {
+    "ctacontentbgcolor" : "hsl(0deg 0% 100% / 50%)",
+    "ctacontentht" : "50%",
+    "ctacontentwd" : "78%",
+    "line1" : {
+      "bgcolor" : "lightblue",
+      "fgcolor" : "white",
+      "fntsize" : "16px",
+      "txt" : "Signup Offer"
+    },
+    "line2" : {
+      "bgcolor" : "",
+      "fgcolor" : "black",
+      "fntsize" : "18px",
+      "txt" : "Rs.25/ Discount"
+    },
+    "line3" : {
+      "bgcolor" : "",
+      "fgcolor" : "black",
+      "fntsize" : "12px",
+      "txt" : "On Every Order Continously For 7Days"
+    },
+    "line4" : {
+      "bgcolor" : "",
+      "fgcolor" : "green",
+      "fntsize" : "16px",
+      "txt" : "Enjoy Shoping\uD83E\uDD29"
+    }
+  },
+  "ourservicesbox" : [ {
+    "id" : 1,
+    "bgImagePath" : "/images/worldwide.webp",
+    "texts" : [ {
+      "text" : "Worldwide Delivery",
+      "htmlstyle" : "font-color:black,size:12bold"
+    }, {
+      "text" : "Starting Soon",
+      "htmlstyle" : "font-color:black,size:12"
+    } ],
+    "helptext" : "Thanks for enquiry.We will start worldwide delivery soon.Thanks Again"
+  }, {
+    "id" : 2,
+    "bgImagePath" : "/images/quick-delivery.webp",
+    "texts" : [ {
+      "text" : "Fatest&Remote Delivery",
+      "htmlstyle" : "font-color:black,size:12bold"
+    }, {
+      "text" : "Presently India Orders Only",
+      "htmlstyle" : "font-color:black,size:12"
+    } ],
+    "helptext" : "Our delivery partners would deliver anywhere in committed time"
+  }, {
+    "id" : 3,
+    "bgImagePath" : "/images/support.webp",
+    "texts" : [ {
+      "text" : "Happy To Support Always",
+      "htmlstyle" : "font-color:black,size:12bold"
+    }, {
+      "text" : "24*7 Available To Assist",
+      "htmlstyle" : "font-color:black,size:12"
+    } ],
+    "helptext" : "Seva Hi Samarpan.----------------------------.We are always happy to assist you anytime. Kindly connect us through /ContactUs page"
+  }, {
+    "id" : 4,
+    "bgImagePath" : "/images/return.webp",
+    "texts" : [ {
+      "text" : "ReturnPolicy",
+      "htmlstyle" : "font-color:black,size:12bold"
+    }, {
+      "text" : "User Friendly, Easy Return Process",
+      "htmlstyle" : "font-color:black,size:12"
+    } ],
+    "helptext" : "We always try to be part of your auspicious day by serving our best quality product within committed time. Sorry if we missed your expectation. Kindly contact our support team to get quick support and please take a look once on our return policy."
+  }, {
+    "id" : 5,
+    "bgImagePath" : "/images/giftpack.webp",
+    "texts" : [ {
+      "text" : "Gift Offers For Beloved One",
+      "htmlstyle" : "font-color:black,size:12bold"
+    }, {
+      "text" : "Smile India, Healthy India, Grow India",
+      "htmlstyle" : "font-color:black,size:12"
+    } ],
+    "helptext" : "You are our family and we always love to see smile on our family face. Time to time we come with multiple offers/gifts for our family & family's members"
+  } ],
+  "testimonialbox" : [ {
+    "id" : 1,
+    "bgImagePath" : "/testimonial/testimonial-1.webp",
+    "by" : "Uma",
+    "date" : "2024-01-01",
+    "location" : "Mumbai",
+    "text" : "Happy to be member of shubhday.com's family. Nice products and good quality",
+    "htmlstyle" : "fontColor:'black',fontSize:'12px',fontWeight:'bold'"
+  }, {
+    "id" : 2,
+    "bgImagePath" : "/testimonial/testimonial-2.webp",
+    "by" : "Nagin K",
+    "date" : "2024-01-10",
+    "location" : "Patna",
+    "text" : "Good quality products under budget. Love to shop here",
+    "htmlstyle" : "fontColor:'black',fontSize:'12px',fontWeight:'bold'"
+  }, {
+    "id" : 3,
+    "bgImagePath" : "/testimonial/testimonial-3.webp",
+    "by" : "Meeta",
+    "date" : "2024-01-10",
+    "location" : "Patna",
+    "text" : "Very supportive customer care team. I got my product on time",
+    "htmlstyle" : "fontColor:'black',fontSize:'12px',fontWeight:'bold'"
+  }, {
+    "id" : 4,
+    "bgImagePath" : "/testimonial/testimonial-4.webp",
+    "by" : "Shyam",
+    "date" : "2024-01-10",
+    "location" : "Patna",
+    "text" : "I purchased college bag using pocket money#Very good quality i got",
+    "htmlstyle" : "fontColor:'black',fontSize:'12px',fontWeight:'bold'"
+  } ],
+  "productspecialcategorybox" : [ {
+    "id" : 5,
+    "isActive" : 1,
+    "bgImagePath" : "/images/productspecialcategory/jwelleray.webp",
+    "texts" : [ {
+      "text" : "Jewellery",
+      "htmlstyle" : "font-color:black,size:12bold"
+    }, {
+      "text" : "[250+]",
+      "htmlstyle" : "font-color:black,size:10italic"
+    } ],
+    "buttons" : [ {
+      "text" : "ShowAll",
+      "htmlstyle" : "background-color:red,size:10",
+      "link" : "/Jewellery#popup1"
+    } ]
+  }, {
+    "id" : 2,
+    "isActive" : 1,
+    "bgImagePath" : "../../images/productspecialcategory/tshirt-boy-girl.webp",
+    "texts" : [ {
+      "text" : "CLOTHES",
+      "htmlstyle" : "font-color:black,size:12bold"
+    }, {
+      "text" : "[600+]",
+      "htmlstyle" : "font-color:black,size:10italic"
+    } ],
+    "buttons" : [ {
+      "text" : "ShowAll",
+      "htmlstyle" : "background-color:red,size:10",
+      "link" : "/Cloths#popup1"
+    } ]
+  }, {
+    "id" : 7,
+    "isActive" : 1,
+    "bgImagePath" : "/images/productspecialcategory/shoes-disp.webp",
+    "texts" : [ {
+      "text" : "SHOES",
+      "htmlstyle" : "font-color:black,size:12bold"
+    }, {
+      "text" : "[298+]",
+      "htmlstyle" : "font-color:black,size:10italic"
+    } ],
+    "buttons" : [ {
+      "text" : "ShowAll",
+      "htmlstyle" : "background-color:red,size:10",
+      "link" : "/Shoes#popup1"
+    } ]
+  }, {
+    "id" : 4,
+    "isActive" : 1,
+    "bgImagePath" : "/images/productspecialcategory/purse-belt.webp",
+    "texts" : [ {
+      "text" : "BAG-BELT",
+      "htmlstyle" : "font-color:black,size:12bold"
+    }, {
+      "text" : "[250+]",
+      "htmlstyle" : "font-color:black,size:10italic"
+    } ],
+    "buttons" : [ {
+      "text" : "ShowAll",
+      "htmlstyle" : "background-color:red,size:10",
+      "link" : "/BagBelt#popup1"
+    } ]
+  }, {
+    "id" : 1,
+    "isActive" : 1,
+    "bgImagePath" : "../../images/productspecialcategory/cap-glass.webp",
+    "texts" : [ {
+      "text" : "FASHION",
+      "htmlstyle" : "font-color:black,size:12bold"
+    }, {
+      "text" : "[380+]",
+      "htmlstyle" : "font-color:black,size:10italic"
+    } ],
+    "buttons" : [ {
+      "text" : "ShowAll",
+      "htmlstyle" : "background-color:red,size:10",
+      "link" : "/Fashion#popup1"
+    } ]
+  }, {
+    "id" : 3,
+    "isActive" : 1,
+    "bgImagePath" : "/images/productspecialcategory/electronicswatch.webp",
+    "texts" : [ {
+      "text" : "ELECTRONICS",
+      "htmlstyle" : "font-color:black,size:12bold"
+    }, {
+      "text" : "[400+]",
+      "htmlstyle" : "font-color:black,size:10italic"
+    } ],
+    "buttons" : [ {
+      "text" : "ShowAll",
+      "htmlstyle" : "background-color:red,size:10",
+      "link" : "/Electronics#popup1"
+    } ]
+  }, {
+    "id" : 6,
+    "isActive" : 1,
+    "bgImagePath" : "/images/productspecialcategory/religious-items-article.webp",
+    "texts" : [ {
+      "text" : "POOJA ITEMS",
+      "htmlstyle" : "font-color:black,size:12bold"
+    }, {
+      "text" : "[220+]",
+      "htmlstyle" : "font-color:black,size:10italic"
+    } ],
+    "buttons" : [ {
+      "text" : "ShowAll",
+      "htmlstyle" : "background-color:red,size:10",
+      "link" : "/Puja#popup1"
+    } ]
+  }, {
+    "id" : 9,
+    "isActive" : 1,
+    "bgImagePath" : "/images/productspecialcategory/art-craft.webp",
+    "texts" : [ {
+      "text" : "ART-CRAFTS",
+      "htmlstyle" : "font-color:black,size:12bold"
+    }, {
+      "text" : "[50+]",
+      "htmlstyle" : "font-color:black,size:10italic"
+    } ],
+    "buttons" : [ {
+      "text" : "ShowAll",
+      "htmlstyle" : "background-color:red,size:10",
+      "link" : "/ArtCraft#popup1"
+    } ]
+  } ],
+  "banner" : [ {
+    "id" : 1,
+    "isActive" : 1,
+    "bgImagePath" : "/banner/india-help",
+    "texts" : [ ],
+    "buttons" : [ ]
+  }, {
+    "id" : 2,
+    "isActive" : 1,
+    "bgImagePath" : "/banner/jan-26",
+    "texts" : [ ],
+    "buttons" : [ ]
+  }, {
+    "id" : 3,
+    "isActive" : 1,
+    "textAlign" : "right",
+    "right" : "4%",
+    "top" : "48%",
+    "left" : "0%",
+    "textAlignMobile" : "right",
+    "rightMobile" : "4%",
+    "topMobile" : "48%",
+    "leftMobile" : "0%",
+    "bgImagePath" : "/banner/banner-3",
+    "link" : "/Jewellery#popup1",
+    "texts" : [ ],
+    "buttons" : [ {
+      "text" : "SHOP NOW",
+      "showInWeb" : 0,
+      "showInMobile" : 1,
+      "htmlstyle" : {
+        "background-color" : "blue",
+        "font-color" : "white",
+        "font-size" : 16,
+        "marginTopPX" : "70px",
+        "marginLeftPX" : "550px",
+        "background-color-mobile" : "magenta",
+        "font-color-mobile" : "white",
+        "font-size-mobile" : 12,
+        "marginTopPX-mobile" : "58px",
+        "marginLeftPX-mobile" : "0px",
+        "marginRightPX-mobile" : "10px"
+      },
+      "link" : "/Jewellery#popup1"
+    } ]
+  }, {
+    "id" : 4,
+    "isActive" : 1,
+    "textAlign" : "center",
+    "right" : "0%",
+    "top" : "48%",
+    "left" : "5%",
+    "textAlignMobile" : "left",
+    "rightMobile" : "0%",
+    "topMobile" : "48%",
+    "leftMobile" : "5%",
+    "bgImagePath" : "/banner/girl-fashion-funky",
+    "link" : "/Cloths#popup1",
+    "texts" : [ {
+      "text" : "Trending Item",
+      "htmlstyle" : {
+        "font-color" : "red",
+        "size" : 20,
+        "font-size-mobile" : 14
+      }
+    }, {
+      "text" : "LATEST",
+      "htmlstyle" : {
+        "font-color" : "black",
+        "size" : 20,
+        "font-size-mobile" : 16
+      }
+    }, {
+      "text" : "FASHION SALE",
+      "htmlstyle" : {
+        "font-color" : "black",
+        "size" : 20,
+        "font-size-mobile" : 16
+      }
+    }, {
+      "text" : "starting at ₹ 120.00",
+      "htmlstyle" : {
+        "font-color" : "red",
+        "size" : 20,
+        "font-size-mobile" : 14
+      }
+    } ],
+    "buttons" : [ {
+      "text" : "SHOP NOW",
+      "showInWeb" : 1,
+      "showInMobile" : 1,
+      "htmlstyle" : {
+        "background-color" : "red",
+        "font-color" : "white",
+        "font-size" : 16,
+        "marginTopPX" : "20px",
+        "marginLeftPX" : "20px",
+        "background-color-mobile" : "red",
+        "font-color-mobile" : "white",
+        "font-size-mobile" : 12,
+        "marginTopPX-mobile" : "8px",
+        "marginLeftPX-mobile" : "10px"
+      },
+      "link" : "/Cloths#popup1"
+    } ]
+  } ],
+  "newArrivalProducts" : [ "ARTJL090825153445543:SLR-SADARNOIDA001", "ARTJL090825153445324:SLR-SADARNOIDA001", "ARTJL090824153445221:SLR-SADARNOIDA001" ],
+  "trendingProducts" : [ ],
+  "topRatedProducts" : [ ],
+  "topSellingProducts" : [ "ARTJL090825153445132:SLR-SADARNOIDA001" ],
+  "sellProducts" : [ ],
+  "dealOfDayProducts" : [ ],
+  "commonProducts" : [ "ARTJL090825153445543:SLR-SADARNOIDA001", "ARTJL090825153445324:SLR-SADARNOIDA001", "ARTJL090825153445132:SLR-SADARNOIDA001", "ARTJL090824153445221:SLR-SADARNOIDA001" ],
+  "commonProductsNextDay" : [ ],
+  "commonProductsSecondDay" : [ ]
+}

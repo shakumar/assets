@@ -1,0 +1,40 @@
+{
+"categories":[
+	{
+		"menuTitle": "Jewellery",
+		"subtitles": [
+			{
+			 "text": "Bracelets",
+			 "link": "/ProductListing/jewellery-bracelets-forall/#popup1"
+			},
+                        {
+			 "text": "Mix",
+			 "link": "/ProductListing/jewellery-mix-forall/#popup1"
+			}
+		]
+	},
+	{
+		"menuTitle": "cosmetics",
+		"subtitles": [
+                        {
+			 "text": "Cloth-Perfume",
+			 "link": "/ProductListing/cloth-perfume-forall/#popup1"
+			}
+		]
+	},
+	{
+		"menuTitle": "Religious Items",
+		"subtitles": [
+			{
+			 "text": "Pooja Article",
+			 "link": "/ProductListing/religious-pooja-article/#popup1"
+			}
+		]
+	}
+],
+"utubeUrl":"https://www.youtube.com/@com.shubhday",
+"instaUrl":"https://www.instagram.com/com.shubhday/",
+"whatsappUrl":"https://chat.whatsapp.com/Lk0h5vrHMNX2NyQuvnhfqV",
+"fbUrl":"https://www.facebook.com/groups/com.shubhday/",
+"telegramUrl":"https://t.me/shubhday"
+}

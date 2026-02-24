@@ -1,0 +1,48 @@
+{
+"categories":[
+	{
+		"menuTitle": "cosmetics",
+		"subtitles": [
+			{
+			 "text": "Deodrant",
+			 "link": "/ProductListing/perfume-deodrant-forall/#popup1"
+			},
+                        {
+			 "text": "Cloth-Perfume",
+			 "link": "/ProductListing/cloth-perfume-forall/#popup1"
+			}
+		]
+	},
+	{
+		"menuTitle": "Home Utensils",
+		"subtitles": [
+			{
+			 "text": "All",
+			 "link": "/ProductListing/home-utensils-all/#popup1"
+			}
+		]
+	},
+	{
+		"menuTitle": "Religious Items",
+		"subtitles": [
+			{
+			 "text": "Pooja Article",
+			 "link": "/ProductListing/religious-pooja-article/#popup1"
+			},
+                        {
+			 "text": "Prayer Beads",
+			 "link": "/ProductListing/religious-prayer-beads/#popup1"
+			},
+			{
+			 "text": "All",
+			 "link": "/ProductListing/religious-all/#popup1"
+			}
+		]
+	}
+],
+"utubeUrl":"https://youtube.com/@shailendrakumar-t1r1w?si=rFpB5VEVaNltGtqL",
+"instaUrl":"https://www.instagram.com/com.shubhday/",
+"whatsappUrl":"https://chat.whatsapp.com/HuySIvSh9cDLLcjg5R7Vh9",
+"fbUrl":"https://www.facebook.com/share/g/1ACvVRYULA/",
+"telegramUrl":"https://t.me/shubhday"
+}
